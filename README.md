@@ -1,5 +1,6 @@
-# Getting Started With Hacktoberfest? 🎃
+# GETTING STARTED WITH HACKTOBERFEST? 🎃
 ![enter image description here](https://github.blog/wp-content/uploads/2022/10/hacktoberfestbanner.jpeg)
+
 Are you passionate about open source? Do you enjoy collaborating with developers from around the world? If so, you'll be excited to hear about Hacktoberfest - a month-long celebration of open source software. In this blog post, we'll explore what Hacktoberfest is all about, how it works, why you should participate, and how to make your first pull request. Let's dive in! 🚀
 
 ## What is Hacktoberfest? 🎉
@@ -8,7 +9,7 @@ Hacktoberfest is an annual event that takes place every October. It was created 
 
 ## How does it work? 🤔
 
-Participating in Hacktoberfest is simple. All you need to do is sign up on the Hacktoberfest website and submit at least four pull requests to any public GitHub repository between October 1 and October 31. But remember, quality matters! Your pull requests should add value to the project and follow the project's guidelines. It's not just about quantity; it's about making meaningful contributions. ✨
+Participating in Hacktoberfest is simple. All you need to do is sign up on the Hacktoberfest website and submit at least four pull requests to any public GitHub repository between October 1 and October 31. But remember, quality matters! Your pull requests should add value to the project and follow the project's guidelines. It's not just about quantity. it's about making meaningful contributions. ✨
 
 ## Why should you participate? 🌟
 
@@ -31,7 +32,7 @@ To participate in Hacktoberfest, follow these steps:
 
 ## Prerequisites 📚
 
-Before diving into Hacktoberfest, it's essential to have a basic understanding of Git and GitHub. If you're new to version control systems, take some time to learn the fundamentals. GitHub provides comprehensive documentation and interactive tutorials to help you get started. Additionally, it's beneficial to have some knowledge of the programming languages and frameworks used in the projects you plan to contribute to. Non-coders can also participate by providing design ideas, making changes in docs or by helping others.
+Before diving into Hacktoberfest, it's essential to have a basic understanding of Git and GitHub. If you're new to version control systems, take some time to learn the fundamentals. We will see step by step how to get started with github keep reading. it's beneficial to have some knowledge of the programming languages and frameworks used in the projects you plan to contribute to. Non-coders can also participate by providing design ideas, making changes in docs or by helping others.
 
 ## How to find projects? 🔎
 
@@ -48,13 +49,14 @@ Remember to choose projects that align with your interests and skill level. It's
 #### Feel free to use this repository for your first pull request and consider it as a warm-up exercise to kickstart your open source journey! 🔥
 -   Fork this Repository using the button at the top on right corner.
 -   Clone your forked repository to your pc ( git clone "url from clone option.)
--   Create a new branch for your modifications (ie.  `git branch new-participant`  and check it out  `git checkout new-participant`  or simply do  `git checkout -b new-participant`)
+-   Create a new branch for your modifications (ie.  `git branch new-participant`  go to the new branch  `git checkout new-participant`  or simply do  `git checkout -b new-participant`)
 -   Add your profile data in  `main/participant/` 
 - Add your profile information Create a markdown file in your folder following the convention.
+
 	```
 	main/participant/<YOUR-USERNAME>.md
 	```
-	Copy this template into your file,  fill your information .
+	Copy this template into your file, fill your information.
 	```
 	---
 	name: YOURNAME
