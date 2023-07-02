@@ -1,5 +1,5 @@
 ---
-	name: John Doe
-	institution/company: Massachusetts Institute of Technology
-	github: johndoe120
+name: John Doe
+institution/company: Massachusetts Institute of Technology
+github: johndoe120
 ---
