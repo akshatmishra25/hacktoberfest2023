@@ -73,7 +73,7 @@ Remember to choose projects that align with your interests and skill level. It's
 
 1.  **Read the Readme File**: Start by thoroughly reading the Readme file of the project from top to bottom. Understand what the project does, how it works, and how to set it up properly.
     
-2.  **Explore Good First Issue Labels**: Navigate to the "Issues" tab of the project repository. Look for labels such as "good first issue" or similar. These issues are specifically curated for newcomers like you. Select an issue that interests you.
+2.  **Explore Good First Issue Labels**: Navigate to the "Issues" tab of the project repository. Look for labels such as "good first issue" or "hacktoberfest". These issues are specifically curated for newcomers like you. Select an issue that interests you.
     
 3.  **Review and Communicate**: Read the issue description carefully. If you have any questions or need clarification, don't hesitate to ask in the comments section. Request to be assigned to the issue and discuss how you plan to approach and solve it. Alternatively, you can propose your ideas and open a new issue for discussion.
     
