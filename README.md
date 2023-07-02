@@ -51,7 +51,7 @@ Remember to choose projects that align with your interests and skill level. It's
 -   Clone your forked repository to your pc ( git clone "url from clone option.)
 -   Create a new branch for your modifications (ie.  `git branch new-participant`  go to the new branch  `git checkout new-participant`  or simply do  `git checkout -b new-participant`)
 -   Add your profile data in  `main/participant/` 
-- Add your profile information Create a markdown file in your folder following the convention.
+- Add your profile information Create a markdown file in your folder following the following path.
 
 	```
 	main/participant/<YOUR-USERNAME>.md
