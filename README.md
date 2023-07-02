@@ -81,13 +81,11 @@ Remember to choose projects that align with your interests and skill level. It's
     
 5.  **Clone the Repository**: Clone the forked repository to your local machine using the following command:
     
-    markdownCopy code
     
     `git clone https://github.com/your-username/repository.git` 
     
 6.  **Create a New Branch**: Create a new branch for your changes. It is recommended to name your branch in a descriptive and meaningful way. For example:
     
-    markdownCopy code
     
     `git checkout -b my-feature` 
     
@@ -95,7 +93,6 @@ Remember to choose projects that align with your interests and skill level. It's
     
 8.  **Commit and Push**: Commit your changes and push them to your forked repository using the following commands:
     
-    markdownCopy code
     
     `git add .
     git commit -m "Your descriptive commit message"
