@@ -56,7 +56,7 @@ Remember to choose projects that align with your interests and skill level. It's
 	```
 	main/participant/<YOUR-USERNAME>.md
 	```
-	Copy this template into your file, fill your information.
+	Copy this template into your file, fill your information, paste this in the ` <YOUR-USERNAME>.md ` file
 	```
 	---
 	name: YOURNAME
