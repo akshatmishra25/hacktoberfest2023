@@ -69,7 +69,7 @@ Remember to choose projects that align with your interests and skill level. It's
 - Wait for Pull Request to merge
 -   Star this repository ⭐️
 ### Congratulations on Your First Contribution! 🎉 🎉
-#### If have found a suitable project from [this repository](https://github.com/MunGell/awesome-for-beginners#hacktoberfest) , let's proceed with the following steps to make your first pull request:
+#### If you have found a suitable project from [this repository](https://github.com/MunGell/awesome-for-beginners#hacktoberfest) , let's proceed with the following steps to make your first pull request:
 
 1.  **Read the Readme File**: Start by thoroughly reading the Readme file of the project from top to bottom. Understand what the project does, how it works, and how to set it up properly.
     
