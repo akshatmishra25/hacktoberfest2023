@@ -1,7 +1,7 @@
 # GETTING STARTED WITH HACKTOBERFEST? 🎃
 ![enter image description here](https://github.blog/wp-content/uploads/2022/10/hacktoberfestbanner.jpeg)
 
-Are you passionate about open source? Do you enjoy collaborating with developers from around the world? If so, you'll be excited to hear about Hacktoberfest - a month-long celebration of open source software. In this blog post, we'll explore what Hacktoberfest is all about, how it works, why you should participate, and how to make your first pull request. Let's dive in! 🚀
+Are you passionate about open source? Do you enjoy collaborating with developers from around the world? If so, you'll be excited to hear about Hacktoberfest - a month-long celebration of open source software. In this blog post, we'll explore what Hacktoberfest is all about, how it works, why you should participate, and how to make your first pull request. Let's dive in! 🚀 
 
 ## What is Hacktoberfest? 🎉
 
